@@ -8,7 +8,8 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+
+![Screenshot 2021-11-14 172650](https://user-images.githubusercontent.com/89473315/141703196-123accdb-8839-4dbd-af9d-8a4e02d88f04.png)
 
 
 
@@ -16,7 +17,8 @@
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+![Screenshot 2021-11-14 172650](https://user-images.githubusercontent.com/89473315/141703194-21fcc739-149d-4599-a415-c2f37a7fb0b9.png)
+
 
 ### Database Backup (Required) 
 
