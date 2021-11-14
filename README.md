@@ -30,3 +30,5 @@
 ## Notes
 
 Describe any challenges encountered while doing the assignment.
+
+A challenge would be that it is asked to make a GIF of the creation of things at the end of the assignment
